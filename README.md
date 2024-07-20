@@ -1,5 +1,5 @@
 # enciphered_diary
-CS103 Final Project
+CS103: Computer Programming 2 Final Project
 
 Members:
 - Johnry Espiritu
